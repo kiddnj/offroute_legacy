@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/action_map_loader"
+        android:showAsAction="ifRoom"
+        android:title="@string/action_map_loader"
+        android:icon="@drawable/ic_menu_map"/>
+    <item android:id="@+id/action_route_loader"
+        android:showAsAction="ifRoom"
+        android:title="@string/action_route_loader"
+        android:icon="@drawable/ic_menu_route"/>
+    <item android:id="@+id/action_route_info"
+        android:showAsAction="ifRoom"
+        android:title="@string/action_info_track"
+        android:icon="@drawable/ic_menu_info"/>
+    <item android:id="@+id/action_exit"
+        android:showAsAction="ifRoom"
+        android:title="@string/action_exit"
+        android:icon="@drawable/ic_menu_exit"/>
+</menu>

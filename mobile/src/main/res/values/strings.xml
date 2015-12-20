@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name" translatable="false">Offroute</string>
+    <string name="action_settings">Options</string>
+    <string name="action_map_loader">Load map</string>
+    <string name="action_route_loader">Load track</string>
+    <string name="action_exit">Exit</string>
+    <string name="action_info_track">Track info</string>
+    <string name="alert_GPS_title">GPS is not enabled</string>
+    <string name="alert_GPS_text">GPS is not enabled. Do you want to go to settings menu?</string>
+    <string name="alert_accept">Accept</string>
+    <string name="alert_cancel">Cancel</string>
+    <string name="alert_GPS_accept">Settings</string>
+    <string name="alert_exit_title">Finishing Offroute</string>
+    <string name="alert_exit_text">Do you want to close the app?</string>
+    <string name="notification_title" translatable="false">Offroute</string>
+    <string name="notification_text">Offroute is on background</string>
+    <string name="notrack_info">No track is loaded</string>
+    <string name="waypoint">Waypoint</string>
+    <string name="button_close">Close</string>
+    <string name="tap_description">Description</string>
+    <string name="tap_elevation">Elevation</string>
+    <string name="downloading_spinner">Download selected map:</string>
+    <string name="maps_spinner">Download list of maps</string>
+    <string name="wifi_error">Please connect to a Wifi to download maps</string>
+    <string name="alert_noSD_title">No SD card is found</string>
+    <string name="alert_SD_text">Please insert a SD card or check the internal memory</string>
+
+</resources>

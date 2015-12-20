@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name" translatable="false">Offroute</string>
+    <string name="notificaton_text">Offroute is on background</string>
+    <string name="notification_title" translatable="false">Offroute Wear</string>
+
+</resources>

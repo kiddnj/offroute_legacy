@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_settings">Opciones</string>
+    <string name="action_route_loader">Cargar ruta</string>
+    <string name="action_map_loader">Cargar mapa</string>
+    <string name="action_exit">Salir</string>
+    <string name="action_info_track">Info ruta</string>
+    <string name="alert_GPS_title">El GPS no esta activado</string>
+    <string name="alert_GPS_text">El GPS no esta activado. ¿Desea ir al menu de opciones?</string>
+    <string name="alert_accept">Aceptar</string>
+    <string name="alert_cancel">Cancelar</string>
+    <string name="alert_GPS_accept">Ajustes</string>
+    <string name="alert_exit_title">Saliendo de Offroute</string>
+    <string name="alert_exit_text">¿Desea salir de la aplicacion?</string>
+    <string name="notification_text">Offroute esta en segundo plano</string>
+    <string name="notrack_info">No hay rua cargada</string>
+    <string name="waypoint">Punto de interes</string>
+    <string name="button_close">Cerrar</string>
+    <string name="tap_description">Descripcion</string>
+    <string name="tap_elevation">Elevacion</string>
+    <string name="downloading_spinner">Descargando mapa seleccionado: </string>
+    <string name="maps_spinner">Descargando lista de mapas</string>
+    <string name="wifi_error">Por favor conectese a una WiFi para descargar mapas</string>
+    <string name="alert_noSD_title">No hay memoria en el dispositivo</string>
+    <string name="alert_SD_text">Por favor inserte una tarjeta de memoria o compruebe la memoria interna</string>
+</resources>
